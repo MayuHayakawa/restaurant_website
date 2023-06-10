@@ -1,0 +1,28 @@
+{
+    "menus": [
+        {
+            "id": "test",
+            "name": "test",
+            "nameKO": "테스트",
+            "nameZH": "测试",
+            "nameJA": "テスト",
+            "image": "public/image/menu/marcin-skalij-w_2vlvTgk7E-unsplash.jpg",
+            "description": "test",
+            "descriptionKO": "테스트",
+            "descriptionZH": "测试",
+            "descriptionJA": "テスト"
+        },
+        {
+            "id": "",
+            "name": "",
+            "nameKO": "",
+            "nameZH": "",
+            "nameJA": "",
+            "image": "",
+            "description": "",
+            "descriptionKO": "",
+            "descriptionZH": "",
+            "descriptionJA": ""
+        }
+    ]
+}
