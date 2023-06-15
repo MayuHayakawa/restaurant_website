@@ -94,7 +94,8 @@ const LinkToMenu = () => {
       <p>{language.jump_to_menu_p}</p>
       <Link to='/menu'>
         <div>
-          <p className='button'>{language.jump_to_menu_link}</p>
+          <p className='button'>SEE MENU</p>
+          {/* <p className='button'>{language.jump_to_menu_link}</p> */}
         </div>
       </Link>
     </LinkToMenuContainer>

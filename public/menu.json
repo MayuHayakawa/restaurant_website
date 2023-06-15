@@ -1,7 +1,8 @@
 {
     "menus": [
         {
-            "id": "test",
+            "id": 10000,
+            "category": "test",
             "name": "test",
             "nameKO": "테스트",
             "nameZH": "测试",
@@ -10,10 +11,88 @@
             "description": "test",
             "descriptionKO": "테스트",
             "descriptionZH": "测试",
-            "descriptionJA": "テスト"
+            "descriptionJA": "テスト",
+            "price": 123,
+            "spicy": true
         },
         {
-            "id": "",
+            "id": 10001,
+            "category": "DUKBOKGI",
+            "name": "DukBokGi",
+            "nameKO": "",
+            "nameZH": "",
+            "nameJA": "",
+            "image": "",
+            "description": "",
+            "descriptionKO": "",
+            "descriptionZH": "",
+            "descriptionJA": "",
+            "price": 10.95,
+            "spicy": true
+        },
+        {
+            "id": 10011,
+            "category": "DUKBOKGI",
+            "name": "Cheese DukBokGi",
+            "nameKO": "",
+            "nameZH": "",
+            "nameJA": "",
+            "image": "",
+            "description": "",
+            "descriptionKO": "",
+            "descriptionZH": "",
+            "descriptionJA": "",
+            "price": 12.95,
+            "spicy": true
+        },
+        {
+            "id": 10002,
+            "category": "DUKBOKGI",
+            "name": "RaBokGi",
+            "nameKO": "",
+            "nameZH": "",
+            "nameJA": "",
+            "image": "",
+            "description": "",
+            "descriptionKO": "",
+            "descriptionZH": "",
+            "descriptionJA": "",
+            "price": 11.95
+            "spicy": true
+        },
+        {
+            "id": 10021,
+            "category": "DUKBOKGI",
+            "name": "Cheese RaBokGi",
+            "nameKO": "",
+            "nameZH": "",
+            "nameJA": "",
+            "image": "",
+            "description": "",
+            "descriptionKO": "",
+            "descriptionZH": "",
+            "descriptionJA": "",
+            "price": 13.95,
+            "spicy": true
+        },
+        {
+            "id": 10003,
+            "category": "DUKBOKGI",
+            "name": "JjolBokGi",
+            "nameKO": "",
+            "nameZH": "",
+            "nameJA": "",
+            "image": "",
+            "description": "",
+            "descriptionKO": "",
+            "descriptionZH": "",
+            "descriptionJA": "",
+            "price": 
+            "spicy": true
+        },
+        {
+            "id": "10003",
+            "category": "DUKBOKGI",
             "name": "",
             "nameKO": "",
             "nameZH": "",
@@ -22,7 +101,99 @@
             "description": "",
             "descriptionKO": "",
             "descriptionZH": "",
-            "descriptionJA": ""
-        }
+            "descriptionJA": "",
+            "price": 
+            "spicy": true
+        },
+        {
+            "id": "10003",
+            "category": "DUKBOKGI",
+            "name": "",
+            "nameKO": "",
+            "nameZH": "",
+            "nameJA": "",
+            "image": "",
+            "description": "",
+            "descriptionKO": "",
+            "descriptionZH": "",
+            "descriptionJA": "",
+            "price": 
+            "spicy": true
+        },
+        {
+            "id": "10003",
+            "category": "DUKBOKGI",
+            "name": "",
+            "nameKO": "",
+            "nameZH": "",
+            "nameJA": "",
+            "image": "",
+            "description": "",
+            "descriptionKO": "",
+            "descriptionZH": "",
+            "descriptionJA": "",
+            "price": 
+            "spicy": true
+        },
+        {
+            "id": "10003",
+            "category": "DUKBOKGI",
+            "name": "",
+            "nameKO": "",
+            "nameZH": "",
+            "nameJA": "",
+            "image": "",
+            "description": "",
+            "descriptionKO": "",
+            "descriptionZH": "",
+            "descriptionJA": "",
+            "price": 
+            "spicy": true
+        },
+        {
+            "id": "10003",
+            "category": "DUKBOKGI",
+            "name": "",
+            "nameKO": "",
+            "nameZH": "",
+            "nameJA": "",
+            "image": "",
+            "description": "",
+            "descriptionKO": "",
+            "descriptionZH": "",
+            "descriptionJA": "",
+            "price": 
+            "spicy": true
+        },
+        {
+            "id": "10003",
+            "category": "DUKBOKGI",
+            "name": "",
+            "nameKO": "",
+            "nameZH": "",
+            "nameJA": "",
+            "image": "",
+            "description": "",
+            "descriptionKO": "",
+            "descriptionZH": "",
+            "descriptionJA": "",
+            "price": 
+            "spicy": true
+        },
+        {
+            "id": "10003",
+            "category": "DUKBOKGI",
+            "name": "",
+            "nameKO": "",
+            "nameZH": "",
+            "nameJA": "",
+            "image": "",
+            "description": "",
+            "descriptionKO": "",
+            "descriptionZH": "",
+            "descriptionJA": "",
+            "price": 
+            "spicy": true
+        },
     ]
 }

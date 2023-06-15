@@ -24,17 +24,14 @@ const BusinessHours = () => {
       }
     } else if(currentTime.hour >= 18) {
       setIsOpen(false);
-      setBusinessHours('11AM - 6PM');
     }
+    setBusinessHours('11AM - 6PM');
   }, [date, language.non_business_day]);
-
 
   return (
     <div>
-      <p>{language.business_hours} : {businessHours}</p>
-      <>
-        { isOpen ? <p>{language.opening}</p> : <p>{language.closing}</p> }
-      </>
+      <p>{language.business_hours}</p>
+      <p>{businessHours} : { isOpen ? <>{language.opening}</> : <>{language.closing}</> }</p>
     </div>
   )
 }
