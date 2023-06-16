@@ -1,6 +1,10 @@
+import CardContainer from "../../components/CardContainer"
+
 const Menu = () => {
   return (
-    <div>Menu</div>
+    <>
+      <CardContainer />
+    </>
   )
 }
 
